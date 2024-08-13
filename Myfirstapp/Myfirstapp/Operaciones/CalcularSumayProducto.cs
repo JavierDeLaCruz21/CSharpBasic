@@ -3,6 +3,7 @@
     public class CalcularSumayProducto
     {
 
+        //Realizar la carga de dos números enteros por teclado e imprimir su suma y su producto.
 
         public void SumarNumeros()
         {
