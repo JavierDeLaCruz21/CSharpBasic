@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\C# B\u00E1sico\\Myfirstapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|c:\\c# b\u00E1sico\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|c:\\c# b\u00E1sico\\myfirstapp\\myfirstapp\\artiycanticl\\articycanticl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|solutionrelative:myfirstapp\\artiycanticl\\articycanticl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|c:\\c# b\u00E1sico\\myfirstapp\\myfirstapp\\myfirstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|solutionrelative:myfirstapp\\myfirstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|c:\\c# b\u00E1sico\\myfirstapp\\myfirstapp\\operaciones\\calcularsumayproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|solutionrelative:myfirstapp\\operaciones\\calcularsumayproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|c:\\c# b\u00E1sico\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89A6209-6B18-4E5C-BED5-1F7856E47E43}|Myfirstapp\\Myfirstapp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 513,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticyCantiCl.cs",
+              "DocumentMoniker": "C:\\C# B\u00E1sico\\Myfirstapp\\Myfirstapp\\ArtiyCantiCl\\ArticyCantiCl.cs",
+              "RelativeDocumentMoniker": "Myfirstapp\\ArtiyCantiCl\\ArticyCantiCl.cs",
+              "ToolTip": "C:\\C# B\u00E1sico\\Myfirstapp\\Myfirstapp\\ArtiyCantiCl\\ArticyCantiCl.cs",
+              "RelativeToolTip": "Myfirstapp\\ArtiyCantiCl\\ArticyCantiCl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:28:05.936Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -34,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CalcularSumayProducto.cs",
               "DocumentMoniker": "C:\\C# B\u00E1sico\\Myfirstapp\\Myfirstapp\\Operaciones\\CalcularSumayProducto.cs",
               "RelativeDocumentMoniker": "Myfirstapp\\Operaciones\\CalcularSumayProducto.cs",
               "ToolTip": "C:\\C# B\u00E1sico\\Myfirstapp\\Myfirstapp\\Operaciones\\CalcularSumayProducto.cs",
               "RelativeToolTip": "Myfirstapp\\Operaciones\\CalcularSumayProducto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T04:19:11.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C# B\u00E1sico\\Myfirstapp\\Myfirstapp\\Program.cs",
               "RelativeDocumentMoniker": "Myfirstapp\\Program.cs",
@@ -56,6 +77,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T04:17:55.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Myfirstapp",
+              "DocumentMoniker": "C:\\C# B\u00E1sico\\Myfirstapp\\Myfirstapp\\Myfirstapp.csproj",
+              "RelativeDocumentMoniker": "Myfirstapp\\Myfirstapp.csproj",
+              "ToolTip": "C:\\C# B\u00E1sico\\Myfirstapp\\Myfirstapp\\Myfirstapp.csproj",
+              "RelativeToolTip": "Myfirstapp\\Myfirstapp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T04:26:56.504Z",
               "EditorCaption": ""
             }
           ]

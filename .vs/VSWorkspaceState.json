@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Myfirstapp",
+    "\\Myfirstapp\\Myfirstapp",
+    "\\Myfirstapp\\Myfirstapp\\ArtyCandelClien"
   ],
+  "SelectedNode": "\\Myfirstapp\\Myfirstapp\\ArtyCandelClien",
   "PreviewInSolutionExplorer": false
 }

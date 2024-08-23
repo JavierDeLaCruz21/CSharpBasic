@@ -1,0 +1,15 @@
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.AssemblyInfoInputs.cache
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.AssemblyInfo.cs
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.csproj.CoreCompileInputs.cache
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.sourcelink.json
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\bin\Debug\net8.0\ArtYProductCiente.exe
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\bin\Debug\net8.0\ArtYProductCiente.deps.json
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\bin\Debug\net8.0\ArtYProductCiente.runtimeconfig.json
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\bin\Debug\net8.0\ArtYProductCiente.dll
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\bin\Debug\net8.0\ArtYProductCiente.pdb
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.dll
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\refint\ArtYProductCiente.dll
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.pdb
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ArtYProductCiente.genruntimeconfig.cache
+C:\C# Básico\Myfirstapp\Myfirstapp\ArtYProductClien\ArtYProductCiente\ArtYProductCiente\obj\Debug\net8.0\ref\ArtYProductCiente.dll
